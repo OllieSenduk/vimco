@@ -341,3 +341,19 @@ you can use the generic selector below, but it's slower:
 .icon-dribbble:before {
 	content: "\e063";
 }
+
+.icon-genius:before {
+	content: "\e046"
+}
+
+.icon-piechart {
+	content: "\e050"
+}
+
+.icon-bargraph {
+	content: "\e018"
+}
+
+.icon-presentation {
+	content: "\e00e"
+}

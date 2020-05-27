@@ -1,0 +1,36 @@
+/* ===================================
+    Button
+====================================== */
+
+.btn.btn-primary {background:#f9955e; border-color: #f9955e; color: #232323}
+.btn.btn-transparent-primary {background: transparent; border-color: #f9955e; color: #ffffff}
+.btn.btn-primary:hover, .btn.btn-primary:focus {background: transparent; color: white}
+.btn.btn-transparent-primary:hover, .btn.btn-transparent-primary:focus {background: #f9955e; border-color: #f9955e; color: #232323}
+
+.border-color-primary {border-color:#f9955e !important;}
+.border-color-primary:hover {background-color:#f9955e !important;}
+
+.feature-box-10:hover .number {background: #f9955e; color: #fff }
+
+.text-color-primary {
+    color: #f9955e;
+}
+
+.text-deep-primary {
+    color: #f9955e;
+}
+
+.btn-deep-primary {
+    background: #f9955e;
+    color: black
+}
+
+.btn-deep-primary:hover {
+    color: white
+}
+.bg-deep-primary {background-color:#f9955e;}
+
+.logo {
+    font-family: 'Pacifico', cursive;
+    color: #f9955e;
+}
